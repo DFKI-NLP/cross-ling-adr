@@ -1,0 +1,34 @@
+{
+  "batch_size": 7,
+  "debug": false,
+  "max_length": 300,
+  "min_length": 4,
+  "model_paths_roberta":
+  [
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_12_01_28.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_12_40_40.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_13_18_12.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_13_58_09.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_14_34_05.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_15_11_34.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_15_49_55.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_16_23_59.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_17_01_47.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_17_38_40.pth"
+  ],
+    "model_paths_bioreddit":
+  [
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_11_56_25.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_12_46_50.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_13_35_24.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_14_22_35.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_15_10_18.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_16_00_12.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_16_50_27.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_17_36_54.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_18_24_48.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_bioredditbert/model_weights_14_12_2021_19_06_20.pth"
+  ],
+
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/de/lifeline_10_12_test.jsonl"
+}

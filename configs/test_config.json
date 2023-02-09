@@ -1,0 +1,9 @@
+{
+  "cross_val": 2,
+  "train_dev_data": "data/old/cadec_segura_smm4h20_traindev_balanced.jsonl",
+  "test_data": "data/old/forum_data/de/meamedica_de_all.jsonl",
+  "model_path": "fine_tuned",
+  "debug": true,
+  "patience": 3,
+  "num_shots": 3
+}

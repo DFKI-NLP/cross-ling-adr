@@ -1,0 +1,11 @@
+{
+  "batch_size": 16,
+  "cross_val": 10,
+  "data_type": "combined",
+  "epochs": 3,
+  "max_length": 150,
+  "min_length": 2,
+  "model_name": "multibert",
+  "train_sampler": "weighted"
+
+}

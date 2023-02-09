@@ -1,0 +1,19 @@
+{
+  "augment_data": "upsample_all",
+  "batch_size": 9,
+  "cross_val": 5,
+  "data_type": "combined",
+  "debug": false,
+  "epochs": 20,
+  "learning_rate": 0.00002833,
+  "max_length": 247,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "patience": 4,
+  "sampling_threshold": 0.5056,
+  "t5_model": "t5",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/es_fr/es_fr_test.jsonl",
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/new/es_fr/es_fr_traindev.jsonl",
+  "train_sampler": "random"
+}

@@ -1,0 +1,29 @@
+{
+  "augment_data": false,
+  "batch_size": 7,
+  "debug": false,
+  "epochs": 100,
+  "max_length": 300,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_paths":
+  [
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_12_01_28.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_12_40_40.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_13_18_12.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_13_58_09.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_14_34_05.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_15_11_34.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_15_49_55.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_16_23_59.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_17_01_47.pth",
+    "/netscratch/raithel/projects/bin_adr/models/random_seeds_roberta/model_weights_14_12_2021_17_38_40.pth"
+  ],
+  "patience": 4,
+  "pos_max": 1,
+  "sampling_threshold": 0.9506,
+  "source_train_dev_data": "/netscratch/raithel/projects/bin_adr/data/new/en/cadec_psytar_traindev.jsonl",
+  "t5_model": "t5",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/de/lifeline_16_12_test.jsonl",
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/new/de/lifeline_16_12_traindev.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "cross_val": 5,
+  "data_type": "combined",
+  "debug": false,
+  "epochs": 15,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/model_weights_27_11_2021_17_34_59.pth",
+  "patience": 4,
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/en_fr/en_fr_test.jsonl",
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/new/en_fr/smm4h_2020_fr_traindev.jsonl"
+}

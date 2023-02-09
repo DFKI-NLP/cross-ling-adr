@@ -1,0 +1,19 @@
+{
+  "augment_data": false,
+  "batch_size": 8,
+  "cross_val": 5 ,
+  "data_type": "combined",
+  "debug": false,
+  "epochs": 20,
+  "learning_rate": 0.00001297,
+  "max_length": 382,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "patience": 4,
+  "sampling_threshold": 0.831,
+  "t5_model": "t5",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/en/cadec_psytar_hlp-ade_test.jsonl",
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/new/en/cadec_psytar_hlp-ade_traindev.jsonl",
+  "train_sampler": "weighted"
+}

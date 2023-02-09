@@ -1,0 +1,11 @@
+{
+  "cross_val": 10,
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/combined_en_es_fr_balanced/cadec_segura_smm4h20_traindev_balanced.jsonl",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/combined_en_es_fr_balanced/cadec_segura_smm4h20_testset_balanced.jsonl",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "debug": false,
+  "patience": 3
+}
+
+
+

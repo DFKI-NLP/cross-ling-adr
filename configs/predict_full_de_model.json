@@ -1,0 +1,24 @@
+{
+  "batch_size": 7,
+  "debug": false,
+  "max_length": 300,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_paths":
+  [
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_0_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_1_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_2_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_3_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_4_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_5_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_6_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_7_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_8_seed_473_freeze_0_lr_1.056e-05_weighted.pth",
+    "best_model_full_de_seed_473/model_full_de_data_xlmroberta_9_seed_473_freeze_0_lr_1.056e-05_weighted.pth"
+  ],
+  "patience": 4,
+  "post_processing": 0,
+  "test_data": "data/de/lifeline_16_12_test.jsonl",
+  "wandb_active": false
+}

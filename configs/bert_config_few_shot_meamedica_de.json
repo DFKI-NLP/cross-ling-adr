@@ -1,0 +1,14 @@
+{
+  "batch_size": 10,
+  "cross_val": 10,
+  "debug": true,
+  "epochs": 21,
+  "learning_rate": 0.00002382,
+  "min_length": 4,
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "patience": 4,
+  "sampling_threshold": 0.9925,
+  "seed": 103,
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/de/meamedica_de_all.jsonl",
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/combined_en_es_fr/cadec_segura_smm4h20_all.jsonl"
+}

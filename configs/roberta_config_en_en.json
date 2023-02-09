@@ -1,0 +1,12 @@
+{
+  "cross_val": 5,
+  "data_type": "combined",
+  "debug": false,
+  "epochs": 20,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "patience": 4,
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/en/cadec_psytar_hlp-ade_test.jsonl",
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/new/en/cadec_psytar_hlp-ade_traindev.jsonl"
+}

@@ -1,0 +1,9 @@
+{
+  "cross_val": 10,
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/combined_en_es_fr/cadec_segura_smm4h20_all.jsonl",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/de/meamedica_de_all.jsonl",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "debug": false,
+  "patience": 4,
+  "num_shots": 4
+}

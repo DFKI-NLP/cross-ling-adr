@@ -1,0 +1,8 @@
+{
+  "batch_size": 10,
+  "max_length": 400,
+  "min_length": 4,
+  "model_name": "xlmroberta",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/model_weights_27_11_2021_17_34_59.pth",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/new/es/segura_bedmar_test.jsonl"
+}

@@ -1,0 +1,8 @@
+{
+  "cross_val": 2,
+  "train_dev_data": "/netscratch/raithel/projects/bin_adr/data/de/meamedica_de_all.jsonl",
+  "test_data": "/netscratch/raithel/projects/bin_adr/data/de/lifeline_all.jsonl",
+  "model_path": "/netscratch/raithel/projects/bin_adr/models/",
+  "debug": false,
+  "patience": 4
+}
